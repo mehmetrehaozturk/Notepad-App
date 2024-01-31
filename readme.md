@@ -35,3 +35,11 @@ Bu proje, PyQt5 kullanılarak oluşturulmuş basit bir metin düzenleyici uygula
 - "Geri Al" ve "İleri Al" seçenekleri ile metin üzerindeki değişiklikleri geri alabilir veya tekrar yapabilirsiniz.
 - "Kes", "Kopyala" ve "Yapıştır" seçenekleri ile metin üzerinde kopyalama, kesme ve yapıştırma işlemleri yapabilirsiniz.
 - "Hepsini Seç" seçeneği ile metindeki tüm içeriği seçebilirsiniz.
+
+## Uygulama
+
+![image](https://github.com/mehmetrehaozturk/Notepad-App/assets/147929988/bf6318bf-e005-4d1e-9224-185092c69da6)
+![image](https://github.com/mehmetrehaozturk/Notepad-App/assets/147929988/168b3d68-ed67-4fd0-9ec5-b7bda6469f74)
+
+
+
